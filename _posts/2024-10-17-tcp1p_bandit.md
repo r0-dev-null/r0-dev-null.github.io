@@ -5,6 +5,8 @@ categories: [TCP1P CTF 2024, OSINT]
 tags: [tcp1p, osint, license plate, exiftool, wikipedia]
 authors: stefan
 description: Look at the EXIF data of the image to find the location and use Wikipedia to determine the location the license plate belongs to.
+image:
+    path: /assets/img/writeups/tcp1p.png
 ---
 
 ## Challenge Description

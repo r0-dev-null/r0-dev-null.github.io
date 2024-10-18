@@ -5,6 +5,8 @@ categories: [TCP1P CTF 2024, Misc]
 tags: [tcp1p, misc, javascript, deno]
 authors: stefan
 description: A Simple JavaScript challenge that uses Deno and evals user input. Read current directory and then the flag which was generated with random characters.
+image:
+    path: /assets/img/writeups/tcp1p.png
 ---
 
 ## Challenge Description

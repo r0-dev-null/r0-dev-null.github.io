@@ -5,6 +5,8 @@ categories: [TCP1P CTF 2024, Forensics]
 tags: [tcp1p, forensics, custom spec, decryption, AES, zstd, image reconstruction]
 authors: stefan
 description: Decrypt a custom image format using header data, decompress the image data, and reconstruct it to find the flag hidden within.
+image:
+    path: /assets/img/writeups/tcp1p.png
 ---
 
 ## Challenge Description
