@@ -15,7 +15,7 @@ The flag is name the location and date example TCP1P{Town, Coutry. Month Year}
 
 Example : TCP1P{Yogyakarta, Indonesia. June 2010}
 
-## Solution 
+## Solution
 
 ### Step 1: Analyze the Image Metadata Using EXIFTOOL
 
@@ -41,7 +41,7 @@ This letter might be crucial in narrowing down the geographical region of the li
 
 ### Step 3: Research Vehicle Registration Plates
 
-Since the organizers of the CTF event are from **Indonesia**, we hypothesize that the license plate follows the Indonesian vehicle registration system. 
+Since the organizers of the CTF event are from **Indonesia**, we hypothesize that the license plate follows the Indonesian vehicle registration system.
 
 After conducting some research on **Wikipedia**, we find a page about [Vehicle registration plates of Indonesia](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Indonesia).
 

@@ -4,7 +4,7 @@ date: 2024-10-17 22:00
 categories: [TCP1P CTF 2024, Forensics]
 tags: [tcp1p, forensics, mercurial, hg, repository, decryption]
 authors: stefan
-description: Recover a deleted file from a repository that uses Mercurial (hg) for version control, decrypt it using a given script, and obtain the flag. 
+description: Recover a deleted file from a repository that uses Mercurial (hg) for version control, decrypt it using a given script, and obtain the flag.
 ---
 
 ## Challenge Description
