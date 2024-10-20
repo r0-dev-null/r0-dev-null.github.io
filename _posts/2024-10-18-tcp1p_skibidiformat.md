@@ -2,7 +2,7 @@
 title: "Skibidi Format Writeup"
 date: 2024-10-18 16:30
 categories: [TCP1P CTF 2024, Forensics]
-tags: [tcp1p, forensics, custom spec, decryption, AES, zstd, image reconstruction]
+tags: [tcp1p, forensics, custom spec, decryption, aes, zstd, image reconstruction]
 authors: stefan
 description: Decrypt a custom image format using header data, decompress the image data, and reconstruct it to find the flag hidden within.
 image:
@@ -131,6 +131,7 @@ Opening the reconstructed image (`reconstructed_image.png`), we find the flag em
 ## Conclusion
 
 To solve this challenge, we followed these steps:
+
 1. Parsed the file's custom header to extract critical metadata, including AES encryption parameters.
 2. Decrypted the image data using the AES key and IV.
 3. Decompressed the decrypted data using the Zstandard compression method.
